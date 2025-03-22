@@ -54,6 +54,9 @@ This project is a simple task management REST API developed using Spring Boot.
 ## 📚 API Documentation
 To access Swagger UI: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
+![Image](https://github.com/user-attachments/assets/2a8ad9fb-ee13-448e-ae15-51a4d3842fdd)
+
+
 ## 💾 Database
 To access H2 Console: [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
 
